@@ -1,0 +1,2 @@
+# Special_RGSU
+Beta version of the software package, some functions may not be working. Executable files:Sources-the source files for building the package, divided internally into product directories – a separate folder for each product. Tests -tests for the product being developed, partitioning into folders is similar to the Sources folder.  Package.swift - a file with a description of the package.   README.md-package documentation file.
