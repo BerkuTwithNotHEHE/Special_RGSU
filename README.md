@@ -6,7 +6,7 @@ Avenger Multi-purpose Responsive HTML5 Bootstrap Template is a free website temp
 
 License :
 -------
-**Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
+**Creative Commons Attribution 3.0** 
 
 - You are allowed to use all files for both personal and commercial projects.
 
